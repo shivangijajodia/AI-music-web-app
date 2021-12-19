@@ -1,0 +1,28 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+}
+
+.note {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.speed_img {
+    float: left;
+    border-radius: 100px;
+    width: 200px;
+}
+
+.speed {
+    float: left;
+}
+.volume {
+    float: right;
+}
